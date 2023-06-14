@@ -1,0 +1,5 @@
+nombre = input("Ingresa tu nombre: ")
+nombre2 = input("Ingresa tu segundo nombre: ")
+apellido = input("Ingresa tu apellido: ")
+apellido2 = input("Ingresa tu segundo apellido: ")
+print("Bienvenido", apellido, apellido2, nombre, nombre2 + ".")
